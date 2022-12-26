@@ -3,7 +3,7 @@ learn springboot
 
 Dependency Injection
 
-@Component
+--@Component
 @Autowired
 @RequestMapping
 @GetMapping
