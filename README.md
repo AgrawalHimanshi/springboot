@@ -1,7 +1,7 @@
 # springboot
 learn springboot
 
-Dependency Injection
+*Dependency Injection
 
 * @Component
 * @Autowired
@@ -9,7 +9,7 @@ Dependency Injection
 * @GetMapping
 * @Controller
 
-ApplicationContext
+*ApplicationContext
 
-Loose Coupling
+*Loose Coupling
 
